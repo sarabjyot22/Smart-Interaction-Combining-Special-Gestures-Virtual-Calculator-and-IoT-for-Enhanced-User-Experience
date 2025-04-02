@@ -17,16 +17,12 @@ This project enables **gesture-based control** for smart devices and virtual inp
 - **Machine Learning** (for gesture classification)
 
 ## 📂 Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/sarabjyot22/Smart-Gesture-Based-Interaction-System.git
-   cd Smart-Gesture-Based-Interaction-System
-   ```
-2. Install dependencies:
+
+1. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the gesture recognition system:
+2. Run the gesture recognition system:
    ```sh
    python main_original_code.py
    ```
