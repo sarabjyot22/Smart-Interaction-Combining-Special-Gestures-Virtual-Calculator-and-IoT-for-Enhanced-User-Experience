@@ -13,12 +13,10 @@ This project enables **gesture-based control** for smart devices and virtual inp
 - **Python**
 - **Mediapipe** (for hand tracking)
 - **OpenCV** (for computer vision processing)
-- **IoT Integration** (Raspberry Pi/Arduino)
-- **Machine Learning** (for gesture classification)
+- **IoT Integration** (Arduino)
 
 
 ## 📈 Future Enhancements
 - AI-based adaptive learning for personalized gestures.
 - Expanded IoT support for more smart home devices.
-- Improved gesture recognition under low-light conditions.
 
