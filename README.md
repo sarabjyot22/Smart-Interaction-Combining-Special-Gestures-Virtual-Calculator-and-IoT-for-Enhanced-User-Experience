@@ -16,16 +16,6 @@ This project enables **gesture-based control** for smart devices and virtual inp
 - **IoT Integration** (Raspberry Pi/Arduino)
 - **Machine Learning** (for gesture classification)
 
-## 📂 Installation & Usage
-
-1. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-2. Run the gesture recognition system:
-   ```sh
-   python main_original_code.py
-   ```
 
 ## 📈 Future Enhancements
 - AI-based adaptive learning for personalized gestures.
